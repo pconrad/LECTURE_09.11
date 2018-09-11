@@ -4,7 +4,7 @@
 # A few words on Design Patterns
 
 * Shared Vocabulary
-* The "Tools for your Design Toolbox" pages in HFDP Chapters 1,2,3,4
+* The "Tools for your Design Toolbox" pages in HFDP Chapters 1,2,3
    * p. 32, 75, 107
    
 # Standup meetings (Scrum, Agile)
