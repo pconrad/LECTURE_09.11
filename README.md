@@ -5,7 +5,7 @@
 
 * Shared Vocabulary
 * The "Tools for your Design Toolbox" pages in HFDP Chapters 1,2,3,4
-   * p. 32, 75, 107, 164
+   * p. 32, 75, 107
    
 # Standup meetings (Scrum, Agile)
 
